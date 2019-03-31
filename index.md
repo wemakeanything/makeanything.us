@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Example
+title: MakeAnything!
 ---
 
-# This is a heading
+![](images/banner.jpg)
+
 
 And here is some *emphasised* and _strong_ text.
 
